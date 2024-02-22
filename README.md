@@ -1,4 +1,4 @@
-# gen-ai
+# Gen-AI Prompt Engineering
 
 Prompt Engineering is an act of a human changing the prommpt (input) to improve the response for a given task
 
